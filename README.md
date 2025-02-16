@@ -1,2 +1,2 @@
 # flask-landing-page
-simple flask landing page app
+this is a simple Flask landing page app
